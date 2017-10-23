@@ -16,7 +16,6 @@ public class Calculation_lib {
 		return this.m - this.n;
 	}
 	
-	
 	public int getTime(){
 		return this.m * this.n;
 	}
