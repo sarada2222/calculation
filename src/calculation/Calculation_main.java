@@ -11,6 +11,7 @@ public class Calculation_main {
 		int m = Integer.parseInt(scan.next());
 	
 		
+		
 		System.out.println("Input Number n >");
 		int n = Integer.parseInt(scan.next());
 	
