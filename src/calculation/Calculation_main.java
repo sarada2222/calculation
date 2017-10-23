@@ -5,11 +5,12 @@ import java.util.Scanner;
 public class Calculation_main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stubpublic class Calculation_main {
+		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Input Number m >");
 		int m = Integer.parseInt(scan.next());
 	
+		
 		System.out.println("Input Number n >");
 		int n = Integer.parseInt(scan.next());
 	
